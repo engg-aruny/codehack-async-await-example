@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "codehack-async-await-example", "codehack-async-await-example.csproj", "{4EBD5253-A84F-4693-A902-0187CE2C5295}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EBD5253-A84F-4693-A902-0187CE2C5295}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EBD5253-A84F-4693-A902-0187CE2C5295}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EBD5253-A84F-4693-A902-0187CE2C5295}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EBD5253-A84F-4693-A902-0187CE2C5295}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E5780EB-7DB4-42AD-ADDA-DE1D54AE3DB0}
+	EndGlobalSection
+EndGlobal
